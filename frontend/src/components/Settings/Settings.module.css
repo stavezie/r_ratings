@@ -1,0 +1,7 @@
+.input {
+    border: 1px solid #1f1f23;
+    outline: 0;
+    max-width: 250px !important;
+    padding: 3px;
+    background: transparent;
+}

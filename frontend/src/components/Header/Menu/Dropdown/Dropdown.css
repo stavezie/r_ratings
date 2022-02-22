@@ -1,0 +1,28 @@
+.dropdown-item,
+.dropdown-toggle{
+    font-size: 20px;
+    background-color: #4D4948;
+    color: #fff;
+}
+
+
+.dropdown-toggle {
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.dropdown-item:hover,
+.dropdown-item:hover span
+{
+    background-color: transparent!important;
+}
+
+.dropdown-menu {
+    background-color: #4D4948;
+}
+
+.dd__img {
+    max-height: 25px;
+    max-width: 25px;
+}

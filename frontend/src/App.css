@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center !important;
+}
+
+a {
+    color: #fff !important;
+}
+
+a.black-link {
+    color: #1f1f23 !important;
+}
+
+.nav-link {
+    color: #fff !important;
+    text-decoration: none;
+}

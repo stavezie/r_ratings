@@ -1,0 +1,18 @@
+.main {
+    background-color: #1f1f23;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #fff
+}
+
+.btn {
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 15px 30px;
+}
